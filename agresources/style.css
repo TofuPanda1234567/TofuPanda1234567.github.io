@@ -62,7 +62,7 @@
 /* PRODUCT LINK */
 #pBox {
     background: white;
-    background-image: url(../images/cowPNG.png);
+    background-image: url(../agresources/images/cowPNG.png);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -70,7 +70,7 @@
     border-radius: 10px;
 }
 #pBox:hover {
-  background-image: url(../images/cowPNG.png);
+  background-image: url(../agresources/images/cowPNG.png);
   border: 3px solid #333;
 }
 #pPageLinks {
@@ -85,7 +85,7 @@
 /* ANIMAL SCIENCE LINK */
 #aBox {
     background: white;
-    background-image: url(../images/pig.jpg);
+    background-image: url(../agresources/images/pig.jpg);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -94,7 +94,7 @@
 }
 #aBox:hover {
   background: grey;
-  background-image: url(../images/pig.jpg);
+  background-image: url(../agresources/images/pig.jpg);
   border: 3px solid #333;
 }
 #aPageLinks {
@@ -109,7 +109,7 @@
 /* FOOD SCIENCE LINK */
 #fBox {
     background: white;
-    background-image: url(../images/salad.jpg);
+    background-image: url(../agresources/images/salad.jpg);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -118,7 +118,7 @@
 }
 #fBox:hover {
   background: grey;
-  background-image: url(../images/salad.jpg);
+  background-image: url(../agresources/images/salad.jpg);
   border: 3px solid #333;
 }
 #fPageLinks {
@@ -133,7 +133,7 @@
 /* PLANT SCIENCE LINK */
 #plantBox {
     background: white;
-    background-image: url(../images/leafpng.jpg);
+    background-image: url(../agresources/images/leafpng.jpg);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -142,7 +142,7 @@
 }
 #plantBox:hover {
   background: grey;
-  background-image: url(../images/leafpng.jpg);
+  background-image: url(../agresources/images/leafpng.jpg);
   border: 3px solid #333;
 }
 #plantPageLinks {
@@ -157,7 +157,7 @@
 /* NATURAL RESOURCES LINK */
 #nBox {
     background: white;
-    background-image: url(../images/natresources.png);
+    background-image: url(../agresources/images/natresources.png);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -167,7 +167,7 @@
 }
 #nBox:hover {
   background: grey;
-  background-image: url(../images/natresources.png);
+  background-image: url(../agresources/images/natresources.png);
   border: 3px solid #333;
 }
 #nPageLinks {
@@ -182,7 +182,7 @@
 /* AGRICULTURE MECHANICS LINK */
 #mBox {
     background: white;
-    background-image: url(../images/agmech.png);
+    background-image: url(../agresources/images/agmech.png);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -192,7 +192,7 @@
 }
 #mBox:hover {
   background: grey;
-  background-image: url(../images/agmech.png);
+  background-image: url(../agresources/images/agmech.png);
   border: 3px solid #333;
 }
 #mPageLinks {
@@ -207,7 +207,7 @@
 /* FFA LINK */
 #ffaBox {
     background: white;
-    background-image: url(../images/ffa.png);
+    background-image: url(../agresources/images/ffa.png);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -217,14 +217,14 @@
 }
 #ffaBox:hover {
   background: grey;
-  background-image: url(../images/ffa.png);
+  background-image: url(../agresources/images/ffa.png);
   border: 3px solid #333;
 }
 
 /* ABOUT LINK */
 #aboutBox {
     background: white;
-    background-image: url("../images/abt.jpg");
+    background-image: url("../agresources/images/abt.jpg");
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -234,7 +234,7 @@
 }
 #aboutBox:hover {
   background: grey;
-  background-image: url("../images/abt.jpg");
+  background-image: url("../agresources/images/abt.jpg");
   border: 3px solid #333;
 }
 
@@ -257,7 +257,7 @@
   color: white;
   padding: 20px;
   margin: 0 auto;
-  /* background-image: url("../images/banner.jpg"); */
+  /* background-image: url("../agresources/images/banner.jpg"); */
   background-color: #888888;
   background-position: center center;
 }
