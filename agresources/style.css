@@ -224,7 +224,7 @@
 /* ABOUT LINK */
 #aboutBox {
     background: white;
-    background-image: url(agresources/images/abt.jpg);
+    background-image: url(https://vscode.dev/github/TofuPanda1234567/TofuPanda1234567.github.io/blob/7a86227e03981267d9248d890bc705dbf03fccf9/agresources/images/abt.jpg);
     width: 200px;
     height: 200px;
     border: 1px solid #333;
@@ -234,7 +234,7 @@
 }
 #aboutBox:hover {
   background: grey;
-  background-image: url("./agresources/images/abt.jpg");
+  background-image: url(./agresources/images/abt.jpg);
   border: 3px solid #333;
 }
 
