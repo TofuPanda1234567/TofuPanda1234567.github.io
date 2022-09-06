@@ -110,8 +110,8 @@
 #fBox {
     background: white;
     background-image: url('../agresources/images/salad.jpg');
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: auto;
     border: 1px solid #333;
     position: relative;
     border-radius: 10px;
