@@ -115,7 +115,7 @@
     border: 1px solid #333;
     position: relative;
     border-radius: 10px;
-    object-position: center top;
+    object-position: 50px 50px;
 }
 #fBox:hover {
   background: grey;
