@@ -140,7 +140,7 @@
     border: 1px solid #333;
     position: relative;
     border-radius: 10px;
-    object-position: 50px 50px
+    object-position: 25px 25px
 }
 #plantBox:hover {
   background: grey;
