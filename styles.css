@@ -2,6 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .homeHead{
+    padding-top: 30px;
     font-size: 80px;
     text-align: center;
     font-weight: bold;
@@ -20,13 +21,18 @@
 
 .underline{
     display: block;
-    border-top: 3px solid black;
+    border-top: 10px solid black;
 }
 
 .projectsBanner{
     font-size: 30px;
 }
 
-.projects{
+ul li{
     display: inline;
+    padding-right: 10px
+}
+
+.projects{
+    padding-left: 30px;
 }
