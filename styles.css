@@ -14,14 +14,15 @@
     background-color: white;
     color: black;
     padding: 14px 25px;
-    text-align: center;
+    text-align: 15%;
     text-decoration: none;
     display: inline;
 }
 
 .underline{
     display: block;
-    border-top: 10px solid black;
+    width: auto;
+    border-top: 7px solid black;
 }
 
 .projectsBanner{
