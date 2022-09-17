@@ -1,8 +1,8 @@
 *{
-    font-family:'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
 }
 .homeHead{
-    font-size: 30px;
+    font-size: 80px;
     text-align: center;
     font-weight: bold;
 }
@@ -16,4 +16,17 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+
+.underline{
+    display: block;
+    border-top: 3px solid black;
+}
+
+.projectsBanner{
+    font-size: 30px;
+}
+
+.projects{
+    display: inline;
 }
