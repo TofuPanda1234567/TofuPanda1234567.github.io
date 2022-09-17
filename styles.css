@@ -21,7 +21,7 @@
 
 .underline{
     display: block;
-    width: auto;
+    width: fill;
     border-top: 7px solid black;
 }
 
@@ -35,6 +35,6 @@ ul li{
 }
 
 .projects{
-    padding-left: 30px;
+    padding-left: 80px;
     display: inline;
 }
