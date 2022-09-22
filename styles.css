@@ -9,7 +9,7 @@
 }
 
 .mainNav{
-    padding-left: 80px;
+    margin-left: 80px;
     display: inline;
 }
 
@@ -42,4 +42,10 @@ ul li{
 .projects{
     padding-left: 80px;
     display: inline;
+}
+
+.pb{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
 }
