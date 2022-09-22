@@ -8,6 +8,11 @@
     font-weight: bold;
 }
 
+.mainNav{
+    padding-left: 80px;
+    display: inline;
+}
+
 .container{
     margin-top: 50px;
     font-size: 22px;
