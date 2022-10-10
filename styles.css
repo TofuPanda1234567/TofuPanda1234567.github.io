@@ -3,7 +3,7 @@
 }
 .homeHead{
     margin-top: 130px;
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
     font-weight: bold;
 }
@@ -26,7 +26,7 @@
 
 .underline{
     display: block;
-    width: 100vw;
+    width: 120vw;
     border-top: 7px solid black;
 }
 
