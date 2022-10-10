@@ -26,7 +26,7 @@
 
 .underline{
     display: block;
-    width: fill;
+    width: 100vw;
     border-top: 7px solid black;
 }
 
